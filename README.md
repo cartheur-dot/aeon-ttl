@@ -4,4 +4,4 @@ The most beautiful machine not only for its pure simplicity.
 
 ### Endeavor
 
-The new work has parts in here.
+A design worhty of what started in September 2023 starts here.
