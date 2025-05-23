@@ -3,4 +3,5 @@ Project notes for aeon-ttl
 
 23.05.2025
     1015: A design worhty of what started in September 2023 starts here.
+    1140: Printing a pair of 4-bit LED indicators from the 4-bit seitch pattern inspired by the Rodney method.
     
