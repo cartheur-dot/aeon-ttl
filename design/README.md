@@ -27,4 +27,4 @@ An estimate of the first-pass in the design is thus.
 | 17     | Breadboard        | Generic             | 1        | Prototyping board for assembly                                  | $5.00                   | $5.00                    |
 | 18     | Jumper Wires      | Generic             | 50       | Connecting wires for breadboard                                 | $0.05                   | $2.50                    |
 
-Words.
+Total Estimated Cost: $16.90.
