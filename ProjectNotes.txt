@@ -6,4 +6,5 @@ Project notes for aeon-ttl
     1140: Printing a pair of 4-bit LED indicators from the 4-bit seitch pattern inspired by the Rodney method.
 24.05.2025
     1151: Creating a stacked LED-4-bit combo for the data area of programming, since it is impossible to reuse either switches or lamps.
+    2004: Adjusting the models to fit the switch diameter and number, since I need a R/P switch also.
     
