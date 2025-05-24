@@ -7,4 +7,5 @@ Project notes for aeon-ttl
 24.05.2025
     1151: Creating a stacked LED-4-bit combo for the data area of programming, since it is impossible to reuse either switches or lamps.
     2004: Adjusting the models to fit the switch diameter and number, since I need a R/P switch also.
+    2011: Done and found the 4-segment display I ordered in 2021. probably in a box that is unopened. This will round-out the bph base-5 display per either the address or the data or both - not sure exactly just yet but think what is being printed is sufficient. What I said the last time...
     
