@@ -57,7 +57,7 @@ Total Estimated Cost: $16.90.
 |                        Components                       | On-Hand |
 |:-------------------------------------------------------:|:-------:|
 | IC1: 2114 SRAM (1024x4-bit, 18-pin DIP).                |    X    |
-| IC2: 74LS173 (4-bit D-type register).                   |    X    |
+| IC2: 74LS173 (4-bit D-type register).                   |         |
 | IC3: NE555 (timer for 1 kHz clock).                     |    X    |
 | IC4: 74LS00 (quad 2-input NAND).                        |    X    |
 | IC5: 74LS08 (quad 2-input AND).                         |    X    |
