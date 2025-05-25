@@ -12,3 +12,5 @@ Project notes for aeon-ttl
 25.05.2025
     1435: Want to spend this session with the first-draft circuit design and glue in-place the UI compoenents.
     1531: Short a few ICs and money not in account yet. It seems to me including the base-5 will bring us around to the right place and see where the innovation of the circuit through its ideal paces lies. Or maybe I've been just making up shit since 1997.
+    1534: Next step is design and to pull the parts that I have in-stock.
+    
