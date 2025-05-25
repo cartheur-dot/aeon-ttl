@@ -28,3 +28,53 @@ An estimate of the first-pass in the design is thus.
 | 18     | Jumper Wires      | Generic             | 50       | Connecting wires for breadboard                                 | $0.05                   | $2.50                    |
 
 Total Estimated Cost: $16.90.
+
+### Adding base-5 to the mix
+
+* IC1: 2114 SRAM (1024x4-bit, 18-pin DIP).
+* IC2: 74LS173 (4-bit D-type register).
+* IC3: NE555 (timer for 1 kHz clock).
+* IC4: 74LS00 (quad 2-input NAND).
+* IC5: 74LS08 (quad 2-input AND).
+* IC6: 74LS04 (hex inverter).
+* IC7–IC10: 74LS47 (BCD-to-7-segment decoders, 4 units).
+* IC11–IC12: 74LS157 (quad 2-to-1 multiplexers, 2 units).
+* IC13: 27C16 (2Kx8 ROM for base-5 conversion).
+* SW1–SW8: SPST switches (address input, A0–A7).
+* SW9–SW12: SPST switches (data input, D0–D3).
+* SW13: SPST switch (read/program, R/W).
+* SW14: SPST switch (address/data display select).
+* LED1–LED12: LEDs (8 yellow for address, 4 orange for data).
+* DISP1–DISP4: Common-anode 7-segment displays.
+* R1–R13: 10 kΩ resistors (pull-down for switches).
+* R14–R25: 330 Ω resistors (LED current-limiting).
+* R26–R27: 1 kΩ resistors (555 timer).
+* C1: 0.68 µF capacitor (555 timer for 1 kHz).
+* C2–C4: 0.1 µF capacitors (decoupling for ICs).
+* C5: 10 µF capacitor (555 timer).
+* PWR: 5V DC power supply.
+
+|                        Components                       | On-Hand |
+|:-------------------------------------------------------:|:-------:|
+| IC1: 2114 SRAM (1024x4-bit, 18-pin DIP).                |         |
+| IC2: 74LS173 (4-bit D-type register).                   |         |
+| IC3: NE555 (timer for 1 kHz clock).                     |         |
+| IC4: 74LS00 (quad 2-input NAND).                        |         |
+| IC5: 74LS08 (quad 2-input AND).                         |         |
+| IC6: 74LS04 (hex inverter).                             |         |
+| IC7–IC10: 74LS47 (BCD-to-7-segment decoders, 4 units).  |         |
+| IC11–IC12: 74LS157 (quad 2-to-1 multiplexers, 2 units). |         |
+| IC13: 27C16 (2Kx8 ROM for base-5 conversion).           |         |
+| SW1–SW8: SPST switches (address input, A0–A7).          |         |
+| SW9–SW12: SPST switches (data input, D0–D3).            |         |
+| SW13: SPST switch (read/program, R/W).                  |         |
+| SW14: SPST switch (address/data display select).        |         |
+| LED1–LED12: Red LEDs (8 for address, 4 for data).       |         |
+| DISP1–DISP4: Common-anode 7-segment displays.           |         |
+| R1–R13: 10 kΩ resistors (pull-down for switches).       |         |
+| R14–R25: 330 Ω resistors (LED current-limiting).        |         |
+| R26–R27: 1 kΩ resistors (555 timer).                    |         |
+| C1: 0.68 µF capacitor (555 timer for 1 kHz).            |         |
+| C2–C4: 0.1 µF capacitors (decoupling for ICs).          |         |
+| C5: 10 µF capacitor (555 timer).                        |         |
+| PWR: 5V DC power supply.                                |         |
