@@ -56,25 +56,25 @@ Total Estimated Cost: $16.90.
 
 |                        Components                       | On-Hand |
 |:-------------------------------------------------------:|:-------:|
-| IC1: 2114 SRAM (1024x4-bit, 18-pin DIP).                |         |
-| IC2: 74LS173 (4-bit D-type register).                   |         |
-| IC3: NE555 (timer for 1 kHz clock).                     |         |
-| IC4: 74LS00 (quad 2-input NAND).                        |         |
-| IC5: 74LS08 (quad 2-input AND).                         |         |
-| IC6: 74LS04 (hex inverter).                             |         |
+| IC1: 2114 SRAM (1024x4-bit, 18-pin DIP).                |    X    |
+| IC2: 74LS173 (4-bit D-type register).                   |    X    |
+| IC3: NE555 (timer for 1 kHz clock).                     |    X    |
+| IC4: 74LS00 (quad 2-input NAND).                        |    X    |
+| IC5: 74LS08 (quad 2-input AND).                         |    X    |
+| IC6: 74LS04 (hex inverter).                             |    X    |
 | IC7–IC10: 74LS47 (BCD-to-7-segment decoders, 4 units).  |         |
 | IC11–IC12: 74LS157 (quad 2-to-1 multiplexers, 2 units). |         |
-| IC13: 27C16 (2Kx8 ROM for base-5 conversion).           |         |
-| SW1–SW8: SPST switches (address input, A0–A7).          |         |
-| SW9–SW12: SPST switches (data input, D0–D3).            |         |
-| SW13: SPST switch (read/program, R/W).                  |         |
-| SW14: SPST switch (address/data display select).        |         |
-| LED1–LED12: Red LEDs (8 for address, 4 for data).       |         |
-| DISP1–DISP4: Common-anode 7-segment displays.           |         |
-| R1–R13: 10 kΩ resistors (pull-down for switches).       |         |
-| R14–R25: 330 Ω resistors (LED current-limiting).        |         |
-| R26–R27: 1 kΩ resistors (555 timer).                    |         |
+| IC13: 27C16 (2Kx8 ROM for base-5 conversion).           |    X    |
+| SW1–SW8: SPST switches (address input, A0–A7).          |    X    |
+| SW9–SW12: SPST switches (data input, D0–D3).            |    X    |
+| SW13: SPST switch (read/program, R/W).                  |    X    |
+| SW14: SPST switch (address/data display select).        |    X    |
+| LED1–LED12: LEDs (8 yel for address, 4 oran for data).  |    X    |
+| DISP1–DISP4: Common-anode 7-segment displays.           |    X    |
+| R1–R13: 10 kΩ resistors (pull-down for switches).       |    X    |
+| R14–R25: 330 Ω resistors (LED current-limiting).        |    X    |
+| R26–R27: 1 kΩ resistors (555 timer).                    |    X    |
 | C1: 0.68 µF capacitor (555 timer for 1 kHz).            |         |
-| C2–C4: 0.1 µF capacitors (decoupling for ICs).          |         |
-| C5: 10 µF capacitor (555 timer).                        |         |
-| PWR: 5V DC power supply.                                |         |
+| C2–C4: 0.1 µF capacitors (decoupling for ICs).          |    X    |
+| C5: 10 µF capacitor (555 timer).                        |    X    |
+| PWR: 5V DC power supply.                                |    X    |
