@@ -40,3 +40,6 @@ _Build of materials_
 | Capacitor (0.01 µF) | 1         | For 555 timer control                 | Stabilizes timer operation                         |
 | Power Supply        | 1         | +5V DC power supply                   | Powers all ICs and LEDs                            |
 
+_Notes_
+
+For KiCad, the DigiKey site has the 2114 listed as MD2114AL3. Models are [here](https://github.com/cartheur-forks/digikey-kicad-library).
