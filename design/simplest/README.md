@@ -38,7 +38,5 @@ _Build of materials_
 | Capacitor (1 µF)    | 1         | For 555 timer                         | Sets 1 kHz clock frequency                         |
 | Capacitor (0.1 µF)  | 3         | Decoupling (2) and debounce (1)       | For U1, U2/U3/U4, and LOAD button                  |
 | Capacitor (0.01 µF) | 1         | For 555 timer control                 | Stabilizes timer operation                         |
-| Protoboard          | 1         | Prototyping board                     | For circuit assembly                               |
-| Jumper Wires        | As needed | For connections                       | For protoboard wiring                              |
 | Power Supply        | 1         | +5V DC power supply                   | Powers all ICs and LEDs                            |
 
