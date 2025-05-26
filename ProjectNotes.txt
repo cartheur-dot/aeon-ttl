@@ -14,4 +14,7 @@ Project notes for aeon-ttl
     1531: Short a few ICs and money not in account yet. It seems to me including the base-5 will bring us around to the right place and see where the innovation of the circuit through its ideal paces lies. Or maybe I've been just making up shit since 1997.
     1534: Next step is design and to pull the parts that I have in-stock.
     1837: What I printed: Added the bezels and switches, set in glue to await tomorrow's ambitions.
+26.05.2025
+    1046: Getting boggled by KiCad and old symbols, where Rodney seemed like a dream. Maybe hand-drawing the schematic seems good but think I will need to create a part.
+    1301: After a lot of noise, settled onto Multisim to get the schematic drafted.
     
