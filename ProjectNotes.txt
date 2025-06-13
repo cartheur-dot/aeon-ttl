@@ -20,4 +20,5 @@ Project notes for aeon-ttl
     1435: Over here on amd64 linux with seven to continue the great work in MultiSim.
     1806: Fitted a-new Henry with a 5Ah battery for use with the Juice. Next session will get it cleaned-up and fitted.
 13.06.2025
-    2041: Tracing my way back from where I have been distracted. Got a bear ready for assembly but stopped installing the PI. Something froze in m.e.    
+    2041: Tracing my way back from where I have been distracted. Got a bear ready for assembly but stopped installing the PI. Something froze in m.e. Dunno what happened between 1436 and 1805 of the last entry.
+       
