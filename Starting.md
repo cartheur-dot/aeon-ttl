@@ -1,4 +1,4 @@
-# Sample Circuit for 4-Bit Logic System to Access RAM
+## Sample Circuit for 4-Bit Logic System to Access RAM
 
 This document describes a sample circuit for a 4-bit logic system, without a microprocessor, to interface with a small RAM chip (e.g., 2114 SRAM, 4-bit wide, 16-word). The circuit performs basic read and write operations using discrete logic components.
 
