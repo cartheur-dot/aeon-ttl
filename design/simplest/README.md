@@ -1,8 +1,13 @@
 ## Simplest of them all
 
-_Summary_
+### References
 
-The system
+* RAM[7400](https://github.com/emotional-toys/RAM7400)
+* ideal-game-[ttl](https://github.com/emotional-toys/ideal-game-ttl)
+
+### The state-determinate system
+
+_Summary_
 
 * Handles 4-bit data (D0–D3) with 8-bit addressing (A0–A7) using a single 2114 RAM (1K x 4-bit).
 * Uses a 1 kHz clock from a 555 timer, pausable via an SPST switch for debugging.
