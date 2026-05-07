@@ -1,6 +1,6 @@
-## Sample Circuit for 4-Bit Logic System to Access RAM
+## A 4-Bit Logical Revolver with SRAM
 
-This document describes a sample circuit for a 4-bit logic system, without a microprocessor, to interface with a small RAM chip (e.g., 2114 SRAM, 4-bit wide, 16-word). The circuit performs basic read and write operations using discrete logic components.
+This document describes a 4-bit logic system, known as a _revolver_ with memory, serving as the backplane of an embodied intelligent system. In summary: Satisfation of the linear behavior matrix construct for artificial (and real) self-contained systems.
 
 ## Circuit Overview
 The circuit uses a 4-bit counter to generate addresses, a 4-bit register for data input/output, and logic gates for control signals. It operates synchronously with a clock for proper timing.
