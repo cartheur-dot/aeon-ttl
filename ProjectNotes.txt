@@ -21,4 +21,6 @@ Project notes for aeon-ttl
     1806: Fitted a-new Henry with a 5Ah battery for use with the Juice. Next session will get it cleaned-up and fitted.
 13.06.2025
     2041: Tracing my way back from where I have been distracted. Got a bear ready for assembly but stopped installing the PI. Something froze in m.e. Dunno what happened between 1436 and 1805 of the last entry.
+07.05.2026
+    1835: Consolidating around dot.
        
